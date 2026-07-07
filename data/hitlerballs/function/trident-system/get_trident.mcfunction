@@ -1,0 +1,1 @@
+execute as @p run give @s trident[custom_name={text:"Стояк электрика", color:yellow, italic: true}, custom_data={thunder_god:true}, enchantments={loyalty:3}]

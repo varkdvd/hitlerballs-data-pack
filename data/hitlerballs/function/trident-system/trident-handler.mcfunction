@@ -1,0 +1,1 @@
+execute as @e[type=trident,nbt={DealtDamage:1b}] unless score @s thunder_used matches 1 at @s run function hitlerballs:trident-system/hit

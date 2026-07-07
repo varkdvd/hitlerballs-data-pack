@@ -1,0 +1,3 @@
+title @s title {text:"Добро пожаловать", color:green}
+tellraw @s [{text:"Смерть "},{text:"ворам, ", color:green, italic:true}, {text:"жизнь", color:"white"}, {text:" мусорам", color:"red", bold:true}, {text:". И привет все четким пацанам!", color:"light_purple", bold:true, italic:true, underlined:true}]
+tellraw @s [{text:"\n \nСкачать голые фотки артёма, без смс и регистрации: ", color:"dark_gray"}, {text:"https://артём-фото-18+", "click_event":{action:"open_url", url:"https://surl.li/wnunot"}, "hover_event":{action:"show_text", value:"Подрочить"}, color:"gold"}]

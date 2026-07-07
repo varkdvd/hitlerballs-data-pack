@@ -1,0 +1,2 @@
+give @s written_book[written_book_content={title:"дилдо медный бычок 1488", author:"яйца гитлера", pages:['Добро пожаловать на самый крутой сервер по майнкрафту! Включайте Летова и снимайте трусы!']}]
+give @s slime_block[item_name="жир твоей мамаши"]
