@@ -1,5 +1,5 @@
 # МЕНЯЙТЕ КАЖДЫЙ РАЗ В ЗАВИСИМОСТИ ОТ ПОЛОЖЕНИЯ СУНДУКОВ И ИХ КОЛИЧЕСТВА
-summon marker 25 30 112 {Tags:["loot_chest"]}
+summon marker 25 31 112 {Tags:["loot_chest"]}
 summon marker 3 25 122 {Tags:["loot_chest"]}
 summon marker -5 25 117 {Tags:["loot_chest"]}
 summon marker 0 35 119 {Tags:["loot_chest"]}
