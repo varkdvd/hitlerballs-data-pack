@@ -1,6 +1,6 @@
 kill @e[type=marker,tag=flask]
 
-summon marker 117 125 122 {Tags:["flask","slot_1"]}
+summon marker 17 125 122 {Tags:["flask","slot_1"]}
 summon marker 9 125 134 {Tags:["flask","slot_2"]}
 summon marker 26 125 142 {Tags:["flask","slot_3"]}
 summon marker 4 125 154 {Tags:["flask","slot_4"]}
