@@ -1,2 +1,3 @@
 execute as @e[type=marker, tag=loot_chest] at @s run function hitlerballs:loot/random_config_select
 execute as @e[type=marker, tag=special_chest] at @s run function hitlerballs:loot/random_rare_config_select
+execute as @e[type=marker, tag=furnace] at @s run function hitlerballs:loot/govno_config_select
