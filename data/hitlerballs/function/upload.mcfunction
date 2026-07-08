@@ -10,3 +10,5 @@ function hitlerballs:loot/chest-data-sync
 function hitlerballs:game-manager/spawn-slot-config
 function hitlerballs:game-manager/spawn-slot-world-sync
 function hitlerballs:game-manager/spawn-slot-init
+
+execute as @e[type=marker,tag=flask] at @s run setblock ~ ~-1 ~ glass
