@@ -1,4 +1,4 @@
-execute store result score RNG random run random value 0..2
+execute store result score RNG random run random value 0..15
 #tellraw @a [{"score":{"name":"RNG","objective":"random"}}]
 
 execute if score RNG random matches 0 run function hitlerballs:loot/common-config1
