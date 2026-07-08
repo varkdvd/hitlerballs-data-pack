@@ -1,5 +1,4 @@
-summon marker -2 63 -8 {Tags:["trapped_chest_marker"]}
-summon marker -2 63 -6 {Tags:["trapped_chest_marker"]}
+summon marker -10 30 50 {Tags:["trapped_chest_marker"]}
 summon marker -59 62 68 {Tags:["trapped_chest_marker"]}
 summon marker -29 47 69 {Tags:["trapped_chest_marker"]}
 summon marker -81 42 152 {Tags:["trapped_chest_marker"]}
