@@ -1,0 +1,11 @@
+summon marker -10 30 50 {Tags:["trapped_chest_marker"]}
+summon marker -59 62 68 {Tags:["trapped_chest_marker"]}
+summon marker -29 47 69 {Tags:["trapped_chest_marker"]}
+summon marker -81 42 152 {Tags:["trapped_chest_marker"]}
+summon marker 13 28 83 {Tags:["trapped_chest_marker"]}
+summon marker 34 22 82 {Tags:["trapped_chest_marker"]}
+summon marker 36 42 106 {Tags:["trapped_chest_marker"]}
+summon marker 5 44 121 {Tags:["trapped_chest_marker"]}
+summon marker 62 32 132 {Tags:["trapped_chest_marker"]}
+summon marker 63 27 181 {Tags:["trapped_chest_marker"]}
+summon marker 4 56 208 {Tags:["trapped_chest_marker"]}
