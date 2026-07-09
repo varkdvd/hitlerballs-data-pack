@@ -1,5 +1,5 @@
 execute store result score RNG random run random value 0..9
-#tellraw @a [{"score":{"name":"RNG","objective":"random"}}]
+tellraw @a [{"score":{"name":"RNG","objective":"random"}}]
 
 execute if score RNG random matches 0 run function hitlerballs:loot/govno-config1
 execute if score RNG random matches 1 run function hitlerballs:loot/govno-config2
