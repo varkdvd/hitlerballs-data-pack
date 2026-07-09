@@ -29,6 +29,7 @@ summon marker 4 64 24 {Tags:["furnace_marker"]}
 summon marker 5 64 24 {Tags:["furnace_marker"]}
 summon marker 6 64 24 {Tags:["furnace_marker"]}
 summon marker 7 64 24 {Tags:["furnace_marker"]}
+summon marker 7 65 24 {Tags:["furnace_marker"]}
 summon marker 33 25 20 {Tags:["furnace_marker"]}
 summon marker 60 25 70 {Tags:["furnace_marker"]}
 summon marker 2 24 86 {Tags:["furnace_marker"]}
